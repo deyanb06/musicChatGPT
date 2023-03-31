@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-axios": "^2.0.6",
+    "talkjs": "^0.15.6"
+  }
+}
