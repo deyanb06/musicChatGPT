@@ -1,7 +1,7 @@
 import { ChatCompletionRequestMessage, Configuration, OpenAIApi } from 'openai';
 
 const configuration = new Configuration({
-    apiKey: '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',
+    apiKey: '<YOUR-API-KEY>',
 });
 
 const openai = new OpenAIApi(configuration);
